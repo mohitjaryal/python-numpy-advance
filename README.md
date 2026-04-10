@@ -103,21 +103,6 @@ NumPy is the foundation of the entire Python data science ecosystem:
 
 ---
 
-## 👨‍💻 Author
-
-<div align="center">
-
-**Mohit Jaryal**
-
-*Python Developer | Data Science Enthusiast*
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mohitjaryal.online-blueviolet?style=for-the-badge)](https://mohitjaryal.online)
-[![GitHub](https://img.shields.io/badge/GitHub-mohitjaryal-181717?style=for-the-badge&logo=github)](https://github.com/mohitjaryal)
-
-</div>
-
----
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
