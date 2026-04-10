@@ -115,11 +115,6 @@ Contributions, issues, and feature requests are welcome!
 
 ---
 
-## ⭐ Show Some Love
-
-If this notebook helped you, please consider giving it a **⭐ star** — it really motivates me to keep creating more content!
-
----
 ## 📬 Connect with Me
 
 | Platform | Link |
